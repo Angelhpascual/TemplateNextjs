@@ -1,4 +1,12 @@
-<center>
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+
+<div style="flex;flex-direction:row;">
+
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/angelhpascual)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/angelhpascual/TemplateNextjs?style=social&label=Star&maxAge=2592000)](https://gitHub.com/angelhpascual/TemplateNextjs/)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png" height="200" width="200">
 
@@ -15,7 +23,7 @@ This is a template for Next.js projects. It includes:
 [x] [Jest](https://jestjs.io/)
 [x] [Cypress](https://www.cypress.io/)
 
-</center>
+</div>
 
 ## 🚀 Getting Started
 
