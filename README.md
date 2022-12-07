@@ -3,8 +3,11 @@
 <div style="flex;flex-direction:row;">
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/angelhpascual)
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/angelhpascual/TemplateNextjs?style=social&label=Star&maxAge=2592000)](https://gitHub.com/angelhpascual/TemplateNextjs/)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 </div>
 
