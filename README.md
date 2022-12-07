@@ -11,7 +11,7 @@
 
 </div>
 
-<p align="center" width="100%">
+<p align="center" width="100%" style="border-radius:20px;">
 <img  src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png" height="200" width="200">
 </p>
 
