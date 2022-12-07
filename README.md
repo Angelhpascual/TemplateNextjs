@@ -12,6 +12,8 @@ This is a template for Next.js projects. It includes:
 [x] [ESLint](https://eslint.org/)
 [x] [Prettier](https://prettier.io/)
 [x] [Husky](https://typicode.github.io/husky/#/)
+[x] [Jest](https://jestjs.io/)
+[x] [Cypress](https://www.cypress.io/)
 
 </center>
 
