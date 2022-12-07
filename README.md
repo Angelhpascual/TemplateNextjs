@@ -22,7 +22,7 @@ This is a template for Next.js projects. It includes:
 First, clone the repository:
 
 ```bash
-git clone
+git clone git@github.com:Angelhpascual/TemplateNextjs.git
 ```
 
 Then, install the dependencies:
