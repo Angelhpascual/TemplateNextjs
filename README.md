@@ -7,7 +7,6 @@
 This is a template for Next.js projects. It includes:
 
 [x] [Next.js](https://nextjs.org/)
-[x] [Vercel](https://vercel.com/)
 [x] [Tailwind CSS](https://tailwindcss.com/)
 [x] [TypeScript](https://www.typescriptlang.org/)
 [x] [ESLint](https://eslint.org/)
